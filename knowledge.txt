@@ -1,0 +1,17 @@
+Diabetes:
+HbA1c ≥ 6.5% indicates diabetes.
+Prediabetes is between 5.7% and 6.4%.
+Lifestyle changes include reducing sugar intake and increasing physical activity.
+
+Hypertension:
+Blood pressure above 140/90 mmHg is considered high.
+Reduce salt intake, exercise regularly, and manage stress.
+
+BMI:
+BMI above 25 is overweight.
+BMI above 30 is obese.
+Healthy diet and regular exercise are recommended.
+
+Cholesterol:
+High LDL increases heart disease risk.
+Maintain healthy fats, avoid trans fats, and exercise.
