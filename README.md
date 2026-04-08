@@ -2,7 +2,14 @@
 
 An AI-powered healthcare application that analyzes patient vitals and lab parameters to provide real-time risk assessment, health scoring, and intelligent explanations using a combination of rule-based logic and Retrieval-Augmented Generation (RAG).
 
-Demo : demo_video.mp4
+🎥 Demo
+
+A demo video of the application is available in the repository:
+
+📁 demo video/demo.mp4
+
+You can download and view the video locally to see the Virtual Health Assistant in action.
+
 ⸻
 
 🚀 Overview
