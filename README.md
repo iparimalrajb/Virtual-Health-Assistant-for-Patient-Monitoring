@@ -2,6 +2,7 @@
 
 An AI-powered healthcare application that analyzes patient vitals and lab parameters to provide real-time risk assessment, health scoring, and intelligent explanations using a combination of rule-based logic and Retrieval-Augmented Generation (RAG).
 
+Demo : demo_video.mp4
 ⸻
 
 🚀 Overview
